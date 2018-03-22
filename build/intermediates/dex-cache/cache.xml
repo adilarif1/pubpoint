@@ -1,0 +1,1220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_5f91e8ab3e9d74e7bea26ca042e89965e4f5f1b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_b9ddfcf46dd501069cd918ef30eb190ac3ca81c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_a7751a7825636b0c54fee45df98c7a87b8ce2b80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_3550037bb9901d5e64c2934d17ed95d18455bb69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_7b1ad0d2d90ad0955a2cae9d13ba5f388e173fb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_065ecbc702fe4213f63478d63847ddb03a23b159\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_442bcba81c9ef8976240e9a05af99de6ace8d162\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_7602645b65660cec2dad5a6b5337c9209e795f25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_ad3e9b87610388180967ba81e35cc297e4966d1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_cbdfcf92f9c65b15cb26ad32ce00a333635db7ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_cf8e455fd2df7f6c2ad684bca05208d9e8cd361f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_ffff3cf7416f4cb89fe9334a1c44cb3198252965\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0e3273fc64db4b3e904c5fbea292eeee58a42f4">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f6f9b349d7b72b5787f7c223e1f794d7f2082037\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d90218cb54855006618d37bf7cc23c3cf7f58228\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_54432fe86df521d0eb399de7178a2f85db122614\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_0eaedc9c2d943b56f33e357f55dc73ec98f9c7f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_3e42a9e89b41e563441cd2cb8a188f91b76279c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_4eb09e17cf6403f6db30c816fc89ce330a1f967a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ced0bae0da4b1da5afe6c1ab15a7d9ba9a1a5a4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_17c107f52d0ef214bdad730021fff9d2a63d0b8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_f07a4d5595915d4158d2a806bb3db0a9dd7512db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_070c1e2512e8b3f600535a50dfdeb5b28fb90e95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_ffdd533beebdf82ee6ea53966a58d9b590468326\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_009dacc2b43c50abf6eaa6a049ca496628e70468\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_9b9f26c954fe1f0bc81b553092b8a1684ca25db4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_afdc2ece55eae59f69802d72d2387437deb99987\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_079bdc0041dbc7e9190392b0f264bbdb881dead2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_dff7491d8264705f37c9a266ec08a03578c6d61d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b0da30a3bfb9fcfa57f85cd6dd5465f5cb4931ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_b33c1fa46f5e2e153e7317d35bd6be43a7ff3685\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_95db825bcc989ecaf243d3a45d740d45780bfa1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_e8caed630f36c74c61c567c6dfd76061a451fc76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_b30d8efe9d7ebab8b7314c6cc023729cea7d8dd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_bc85b8fd0e75c5ddb3f50420500563c331a270b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_29a28b2edbf3a25d80d6aa64a5d546c40fbdcd87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_03eaa7b19ea9da96307c0978571bc9b13f964ecb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_07f01f9a2df7cb70828afabd1b3a53be92e50366\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a622fdcecf22ec8a3b1c68f4748e37358e9780">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bfcaf75d52b1497758b61f55531af32f44f75406\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_a5ddbf3435c5dcef142fa90de9b5bc8cfb982cf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_92d24e6d413d2a8923b810076f42a2cbda69144d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_b1d523acfd9cae8bb4cdea068aae640fe0d05e4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_1505437ce026355b821a1f4312603ffeb380fda4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_e61da935f7736ebfa6f37f8c7c03be535c57ed44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_22d1ccfdb5d27e08bb554aeccf856a889a039f20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_f5684fbedeea6cab9340d7fbd4a3fa18c1479221\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0ff2b6ce633c673fba57b7f388869766dff48794\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_245c50d48c9d1c1e1616451b1e0a92cdc8c52691\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_db92b5567a56fff9b668a7242e7abcfe4e5ff557\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_1b44a2ed827a1aaf7fb073423b5d3495ee88ca4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_8908b5ec610c410e34688202504d637b6ece1e96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_43a5e333591b8e4e09df30ec7035fb11283d4d2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_525fe3270bd4d7a2a105423d0405c1544a0fc9d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_e618e25eb0e2141e2d9657e876c6fd3d28ea67fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_b3c9e8c37296e5c5f1b011fbdc37dbb02671ad7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_8a03d9cc52f763304291457bfbc9661a7f470544\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_c4f1b11c7d975d8732be9450d3285dd1d51d07fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_232264e3e477cb21fd963d3d6830efe663d52d25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_3415ef48d96a76c44d2b60e99d037b2b5295acdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_47a0a60eee043030c83478218c64924d523c9ddd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_3141bf089953d0d6609a879303fb5ca3a2766e27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_91b5c55ab062f282bf040cb4ab4d721708c35a6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_35025a063eda948bfd12c3ee86ff2119455887bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f8a5ca379568fd2db05f1fe551d61a97b60bfd7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_f729e8be524a7ec756ef2193119d15ccf1cee8d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_d18aa369d318f1c9a255bca066fd7fea45859213\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_aa2dfa49fe745a1f4b96bb38e9cb236a9738cf8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_4c2bdfd5a1be69587ff3a580a676cd1345d0aca8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_a4849a06ee4b519975db19d0074f2412c131b89a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_77aea7f245146a35e674be61385b3d534852bcb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_81d00f4a484de6267e2dedf617c627e0481a1b6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_455c9a39e30fb33147fbc025d9103099cce5cea3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_a9597b1b5c5db5c139672c6a2d21b5a16a5a4339\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_4f131935f13f91a15c67185cbdc78f56777001b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_fc9177a3a8ae30bebd069dbe482b0c0afae46b89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_6d93ed15b42d841809cbbe4534c92a7c160799a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_d104b3b06643a25ea13108cc188435fc81fb1dae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_24a9a884d70a053543006a7c1664a0e4b0b6294e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_078eff5c3f664eb89d37229d5cf362775a6af62f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_3982681b7b59e407f4091fce0d46d7360f2f398c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_330ff60b14727c7784188cdb76a57fed33947ef7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_48799fe41b76d4a0604b294f168b9e17fec85d65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_3d074e37fba934f79d3c9733b2d2f59913365579\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_3bd819b635aa1f534dac8d0f82b6479163f02b11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_75f1c0b3ad18dc715554d5450ecdb0a170f91e65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_a30d309fb679846270ee6929f41b7a3d406f901d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_854b499d464152a9934d6e3ede32f142d3d3d5d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_9ba1de35f379c4040e5df6091feb620b4e10a7bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_4961ec37545eb7084f82b8b46d584cf8ad81a9af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_d7ab1c202525bacbfcff346186ea8a4fcba31d6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_9c59dc720ba431b2f2fb0b9c4469dc9c6bc22368\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0024d222ee9f345fbd1a9af6cdc7646696a66a1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_e457925f6693c3068805ba127a686380aa76c760\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_a1570132b652856605579210576dbc739dafe89b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_5b3b85e5190648bf96a4949784a396708eaa3610\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7623a94417776b1f9353478ec8e27beb343d992">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f081af111e497ced3011e60136b67c5c85c3dece\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_6695abddd461454a0ec59456b470aa56b426ddd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_dfd05e3e759a2f13c4e51c4fde70def69c8aaca1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_9dbbf64d90ae323da106f4d4bbec78e108871fbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_dcc13ec9603c911a9ac97492ef1af19cf700af84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_6a9063e4ec192b17eca369364b1f10c08f78e2d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_33e25663870115134d1a8e548a51aecc280a903f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_9ce03078cf31a9470734ec9d957df2d3c6f2a7b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_9e82d21a479b2eff0da304ee5919be8bebf31e30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_5fe378579df30fb20130fac5db0e0f9e3191cc2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_c82dd137ce48daef70845d656c3c82d8740f1eec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_eac8891322fd70579c09a473f4bbbb430f880f29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_1ae3a27c774d17838e1b412185091f40f745a287\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_b95f95acb0e81f0991829039812abadaab0caf84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_97d5eb7e1ed67497b2d3ed61313687b6a83af2db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_e00cd0100a5060ae1a3996442bbfef4ba361f0cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_4c4f6bf3b024b824827aed7586d4982623f5c56c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_a0fa376906db1e4b084714a3de7b1398341a18a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f67164c6ed091bed76a897bc70313cf5801c76aa">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_63d76e8f9778f591b4fca1e4a95e7d2af4c75fbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_88cb8e6a7348ba93e02a68eca7daf45db73b3a1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_72babff47a8f1ea71a9a69e36ce2e18af68f5b63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1d7d43c6fab4fd9b49806916b2067f6394763509\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_6f00466dbef8fd3d189f249bff39ed6564578bb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c230bfbb869720f3b7319c18e367d638dae39b05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_f6da49d5d8d047e6ca6e5a74b35924b22597a502\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_d6304cdab8687e2bab81322e5473e5721c762e77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_f889550f8a98b1fedb2c9bbc916c316c141dab44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_a7dba34b20d41f2db861febf5e6da659b7911c8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_f5b7722bd16a655d343c85cf1b6dc633ef070952\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_aab648e5f00c80615d8893528642211e46aca243\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_43cb67470e2ad4c199d57337d9d77affff926f0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_28fc8575d27ad4d5f131cd9cec0b548cc758fde7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_b942b2d43e3bb1c0a044877e3bea8f2442218ba4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_359b8a519f23fde4d756e83dc7d6d003654d3b55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_c27f14d65f1182d7ddd98ba24d9ba5aefbe4df5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_9ab5acbaa48227ae2268000a59f849c445ee2bb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_da30e1757ddafa58f2554df609241394d4473cf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_49b21c7211600927920efa8cdf3e6d8b9fa256d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_488e4a7f6af8cf6412a682f454fc891d066dfae6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_55729887f70d9c2c880e6d5797bd688989e31800\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\MailDog\Desktop\mnspa-pubpoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_9c953ffe3d1e4a8fa0256005c412dc31216668e7\classes.dex" />
+    </item>
+
+</items>

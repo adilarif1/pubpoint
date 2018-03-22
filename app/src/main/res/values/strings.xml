@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PubPoint</string>
+    <string name="title_activity_maps">Find your PubPoint!</string>
+    <string name="title_activity_store">Store your PubPoint!</string>
+    <string name="title_activity_lander">Welcome to PubPoint!</string>
+    <string name="title_activity_music">Play some music!</string>
+    <string name="location_toast">Hey! You are here! See any good pubs? Long press to store them.</string>
+    <string name="pub_stored_toast">This pub has been stored.</string>
+    <string name="module_name">Mobile Networks and Smartphone Applications</string>
+    <string name="built_by">[ built by ]</string>
+    <string name="team_member_1">B00257041</string>
+    <string name="team_member_2">B00221290</string>
+    <string name="team_member_3">B00147369</string>
+    <string name="music_button_1">AC/DC</string>
+    <string name="music_button_2">Chumba\nwamba</string>
+    <string name="music_button_3">Queen</string>
+    <string name="music_button_4">Steppen\nwolf</string>
+    <string name="music_button_5">T-Rex</string>
+    <string name="music_button_6">The Champs</string>
+    <string name="music_button_7">Thin Lizzy</string>
+    <string name="music_button_8">ZZ Top</string>
+</resources>

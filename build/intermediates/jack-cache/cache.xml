@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-07f01f9a2df7cb70828afabd1b3a53be92e50366.jar" />
+    </item>
+    <item
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-4c4f6bf3b024b824827aed7586d4982623f5c56c.jar" />
+    </item>
+    <item
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ffdd533beebdf82ee6ea53966a58d9b590468326.jar" />
+    </item>
+    <item
+        jar="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="Z:\AndroidProjects\mnspa-pubpoint\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-48799fe41b76d4a0604b294f168b9e17fec85d65.jar" />
+    </item>
+
+</items>
